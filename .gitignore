@@ -1,0 +1,6 @@
+node_modules
+results/*
+!results/.gitkeep
+netfieldexports.txt
+netGuidToPathName.txt
+notReadingGroups.txt
